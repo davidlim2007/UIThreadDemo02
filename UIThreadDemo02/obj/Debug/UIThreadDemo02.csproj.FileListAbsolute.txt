@@ -1,0 +1,9 @@
+D:\David\Programming\C#\UIThreadDemo02\UIThreadDemo02\bin\Debug\UIThreadDemo02.exe.config
+D:\David\Programming\C#\UIThreadDemo02\UIThreadDemo02\bin\Debug\UIThreadDemo02.exe
+D:\David\Programming\C#\UIThreadDemo02\UIThreadDemo02\bin\Debug\UIThreadDemo02.pdb
+D:\David\Programming\C#\UIThreadDemo02\UIThreadDemo02\obj\Debug\UIThreadDemo02.csprojResolveAssemblyReference.cache
+D:\David\Programming\C#\UIThreadDemo02\UIThreadDemo02\obj\Debug\UIThreadDemo02.Form1.resources
+D:\David\Programming\C#\UIThreadDemo02\UIThreadDemo02\obj\Debug\UIThreadDemo02.Properties.Resources.resources
+D:\David\Programming\C#\UIThreadDemo02\UIThreadDemo02\obj\Debug\UIThreadDemo02.csproj.GenerateResource.Cache
+D:\David\Programming\C#\UIThreadDemo02\UIThreadDemo02\obj\Debug\UIThreadDemo02.exe
+D:\David\Programming\C#\UIThreadDemo02\UIThreadDemo02\obj\Debug\UIThreadDemo02.pdb
